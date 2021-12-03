@@ -1,0 +1,4932 @@
+{
+  "state": {
+    "up": {
+      "stateName": "Uttar Pradesh",
+      "stateCode": "S24",
+      "mapsource": "assets/maps/UP.json",
+      "scale": 2500,
+      "center": [
+        80.9462,
+        27.2
+      ],
+      "stateIntro": "Uttar Pradesh is a state in northern India. With over 200 million inhabitants, it is the most populated state in India as well as the most populous country subdivision in the world.",
+      "totalVoters": 1416235,
+      "maleVoters": 1416235,
+      "femaleVoters": 1416235,
+      "thirdGender": 1416235,
+      "voterTurnout": "65%",
+      "allAlliances": {
+        "2012": [
+          "BJP",
+          "Samajwadi Party (SP)"
+        ],
+        "2017": [
+          "BJP + Apna Dal (Sonelal) + NISHAD Party",
+          "Samajwadi Party (SP) + Rashtriya Lok Dal (RLD) + Suheldev Bharatiya Samaj Party (SBSP) + Mahan Dal + Janvadi Party (Socialist)"
+        ],
+        "2022": [
+          "BJP + Apna Dal (Sonelal) + NISHAD Party",
+          "Samajwadi Party (SP)"
+        ]
+      },
+      "mapdata": [
+        {
+          "constNo": "1",
+          "constituency": "Behat",
+          "party2022": "",
+          "party2017": "Congress",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "2",
+          "constituency": "Nakur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "3",
+          "constituency": "Saharanpur Nagar",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "4",
+          "constituency": "Saharanpur",
+          "party2022": "",
+          "party2017": "Congress",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "5",
+          "constituency": "Deoband",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "6",
+          "constituency": "Rampur Maniharan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "7",
+          "constituency": "Gangoh",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "8",
+          "constituency": "Kairana",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "9",
+          "constituency": "Thana Bhawan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "10",
+          "constituency": "Shamli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "11",
+          "constituency": "Budhana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "12",
+          "constituency": "Charthawal",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "13",
+          "constituency": "Purqazi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "14",
+          "constituency": "Muzaffar Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "15",
+          "constituency": "Khatauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "16",
+          "constituency": "Meerapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "17",
+          "constituency": "Najibabad",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "18",
+          "constituency": "Nagina",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "19",
+          "constituency": "Barhapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "20",
+          "constituency": "Dhampur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "21",
+          "constituency": "Nehtaur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "22",
+          "constituency": "Bijnor",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "23",
+          "constituency": "Chandpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "24",
+          "constituency": "Noorpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "25",
+          "constituency": "Kanth",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Peace Party"
+        },
+        {
+          "constNo": "26",
+          "constituency": "Thakurdwara",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "27",
+          "constituency": "Moradabad Rural",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "28",
+          "constituency": "Moradabad Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "29",
+          "constituency": "Kundarki",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "30",
+          "constituency": "Bilari",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "31",
+          "constituency": "Chandausi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "32",
+          "constituency": "Asmoli",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "33",
+          "constituency": "Sambhal",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "34",
+          "constituency": "Suar",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "35",
+          "constituency": "Chamraua",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "36",
+          "constituency": "Bilaspur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "37",
+          "constituency": "Rampur",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "38",
+          "constituency": "Milak",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "39",
+          "constituency": "Dhanaura",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "40",
+          "constituency": "Naugawan Sadat",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "41",
+          "constituency": "Amroha",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "42",
+          "constituency": "Hasanpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "43",
+          "constituency": "Siwalkhas",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "44",
+          "constituency": "Sardhana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "45",
+          "constituency": "Hastinapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "46",
+          "constituency": "Kithore",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "47",
+          "constituency": "Meerut Cantt",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "48",
+          "constituency": "Meerut",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "49",
+          "constituency": "Meerut South",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "50",
+          "constituency": "Chhaprauli",
+          "party2022": "",
+          "party2017": "RLD",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "51",
+          "constituency": "Baraut",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "52",
+          "constituency": "Baghpat",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "53",
+          "constituency": "Loni",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "54",
+          "constituency": "Muradnagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "55",
+          "constituency": "Sahibabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "56",
+          "constituency": "Ghaziabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "57",
+          "constituency": "Modi Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "58",
+          "constituency": "Dholana",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "59",
+          "constituency": "Hapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "60",
+          "constituency": "Garhmukteshwar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "61",
+          "constituency": "Noida",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "62",
+          "constituency": "Dadri",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "63",
+          "constituency": "Jewar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "64",
+          "constituency": "Sikandrabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "65",
+          "constituency": "Bulandshahr",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "66",
+          "constituency": "Syana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "67",
+          "constituency": "Anupshahr",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "68",
+          "constituency": "Debai",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "69",
+          "constituency": "Shikarpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "70",
+          "constituency": "Khurja",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "71",
+          "constituency": "Khair",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "72",
+          "constituency": "Barauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "73",
+          "constituency": "Atrauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "74",
+          "constituency": "Chharra",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "75",
+          "constituency": "Koil",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "76",
+          "constituency": "Aligarh",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "77",
+          "constituency": "Iglas",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "78",
+          "constituency": "Hathras",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "79",
+          "constituency": "Sadabad",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "80",
+          "constituency": "Sikandra Rao",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "81",
+          "constituency": "Chhata",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "82",
+          "constituency": "Mant",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "83",
+          "constituency": "Goverdhan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "84",
+          "constituency": "Mathura",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "85",
+          "constituency": "Baldev",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "86",
+          "constituency": "Etmadpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "87",
+          "constituency": "Agra Cantt",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "88",
+          "constituency": "Agra South",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "89",
+          "constituency": "Agra North",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "90",
+          "constituency": "Agra Rural",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "91",
+          "constituency": "Fatehpur Sikri",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "92",
+          "constituency": "Kheragarh",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "93",
+          "constituency": "Fatehabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "94",
+          "constituency": "Bah",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "95",
+          "constituency": "Tundla",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "96",
+          "constituency": "Jasrana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "97",
+          "constituency": "Firozabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "98",
+          "constituency": "Shikohabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "99",
+          "constituency": "Sirsaganj",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "100",
+          "constituency": "Kasganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "101",
+          "constituency": "Amanpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "102",
+          "constituency": "Patiyali",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "103",
+          "constituency": "Aliganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "104",
+          "constituency": "Etah",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "105",
+          "constituency": "Marhara",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "106",
+          "constituency": "Jalesar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "107",
+          "constituency": "Mainpuri",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "108",
+          "constituency": "Bhongaon",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "109",
+          "constituency": "Kishani",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "110",
+          "constituency": "Karhal",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "111",
+          "constituency": "Gunnaur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "112",
+          "constituency": "Bisauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "113",
+          "constituency": "Sahaswan",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "114",
+          "constituency": "Bilsi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "115",
+          "constituency": "Badaun",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "116",
+          "constituency": "Shekhupur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "117",
+          "constituency": "Dataganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "118",
+          "constituency": "Baheri",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "119",
+          "constituency": "Meerganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "120",
+          "constituency": "Bhojipura",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Ittehad-E-Millait Council"
+        },
+        {
+          "constNo": "121",
+          "constituency": "Nawabganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "122",
+          "constituency": "Faridpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "123",
+          "constituency": "Bithari Chainpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "124",
+          "constituency": "Bareilly",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "125",
+          "constituency": "Bareilly Cantt",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "126",
+          "constituency": "Aonla",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "127",
+          "constituency": "Pilibhit",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "128",
+          "constituency": "Barkhera",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "129",
+          "constituency": "Puranpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "130",
+          "constituency": "Bisalpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "131",
+          "constituency": "Katra",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "132",
+          "constituency": "Jalalabad",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "133",
+          "constituency": "Tilhar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "134",
+          "constituency": "Powayan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "135",
+          "constituency": "Shahjahanpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "136",
+          "constituency": "Dadraul",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "137",
+          "constituency": "Palia",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "138",
+          "constituency": "Nighasan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "139",
+          "constituency": "Gola Gokrannath",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "140",
+          "constituency": "Sri Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "141",
+          "constituency": "Dhaurahra",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "142",
+          "constituency": "Lakhimpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "143",
+          "constituency": "Kasta",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "144",
+          "constituency": "Mohammdi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "145",
+          "constituency": "Maholi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "146",
+          "constituency": "Sitapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "147",
+          "constituency": "Hargaon",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "148",
+          "constituency": "Laharpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "149",
+          "constituency": "Biswan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "150",
+          "constituency": "Sevata",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "151",
+          "constituency": "Mahmoodabad",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "152",
+          "constituency": "Sidhauli",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "153",
+          "constituency": "Misrikh",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "154",
+          "constituency": "Sawaijpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "155",
+          "constituency": "Shahabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "156",
+          "constituency": "Hardoi",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "157",
+          "constituency": "Gopamau",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "158",
+          "constituency": "Sandi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "159",
+          "constituency": "Bilgram-Mallanwan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "160",
+          "constituency": "Balamau",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "161",
+          "constituency": "Sandila",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "162",
+          "constituency": "Bangermau",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "163",
+          "constituency": "Safipur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "164",
+          "constituency": "Mohan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "165",
+          "constituency": "Unnao",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "166",
+          "constituency": "Bhagwantnagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "167",
+          "constituency": "Purwa",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "168",
+          "constituency": "Malihabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "169",
+          "constituency": "Bakshi Kaa Talab",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "170",
+          "constituency": "Sarojini Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "171",
+          "constituency": "Lucknow West",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "172",
+          "constituency": "Lucknow North",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "173",
+          "constituency": "Lucknow East",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "174",
+          "constituency": "Lucknow Central",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "175",
+          "constituency": "Lucknow Cantt",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "176",
+          "constituency": "Mohanlalganj",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "177",
+          "constituency": "Bachhrawan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "178",
+          "constituency": "Tiloi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "179",
+          "constituency": "Harchandpur",
+          "party2022": "",
+          "party2017": "Congress",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "180",
+          "constituency": "Rae Bareli",
+          "party2022": "",
+          "party2017": "Congress",
+          "party2012": "Peace Party"
+        },
+        {
+          "constNo": "181",
+          "constituency": "Salon",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "182",
+          "constituency": "Sareni",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "183",
+          "constituency": "Unchahar",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "184",
+          "constituency": "Jagdishpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "185",
+          "constituency": "Gauriganj",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "186",
+          "constituency": "Amethi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "187",
+          "constituency": "Isauli",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "188",
+          "constituency": "Sultanpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "189",
+          "constituency": "Sadar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "190",
+          "constituency": "Lambhua",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "191",
+          "constituency": "Kadipur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "192",
+          "constituency": "Kaimganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "193",
+          "constituency": "Amritpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "194",
+          "constituency": "Farrukhabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Independent"
+        },
+        {
+          "constNo": "195",
+          "constituency": "Bhojpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "196",
+          "constituency": "Chhibramau",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "197",
+          "constituency": "Tirwa",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "198",
+          "constituency": "Kannauj",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "199",
+          "constituency": "Jaswantnagar",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "200",
+          "constituency": "Etawah",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "201",
+          "constituency": "Bharthana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "202",
+          "constituency": "Bidhuna",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "203",
+          "constituency": "Dibiyapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "204",
+          "constituency": "Auraiya",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "205",
+          "constituency": "Rasulabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "206",
+          "constituency": "Akbarpur - Raniya",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "207",
+          "constituency": "Sikandra",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "208",
+          "constituency": "Bhognipur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "209",
+          "constituency": "Bilhaur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "210",
+          "constituency": "Bithoor",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "211",
+          "constituency": "Kalyanpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "212",
+          "constituency": "Govindnagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "213",
+          "constituency": "Sishamau",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "214",
+          "constituency": "Arya Nagar",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "215",
+          "constituency": "Kidwai Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "216",
+          "constituency": "Kanpur Cantt",
+          "party2022": "",
+          "party2017": "Congress",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "217",
+          "constituency": "Maharajpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "218",
+          "constituency": "Ghatampur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "219",
+          "constituency": "Madhaugarh",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "220",
+          "constituency": "Kalpi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "221",
+          "constituency": "Orai",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "222",
+          "constituency": "Babina",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "223",
+          "constituency": "Jhansi Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "224",
+          "constituency": "Mauranipur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "225",
+          "constituency": "Garautha",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "226",
+          "constituency": "Lalitpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "227",
+          "constituency": "Mehroni",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "228",
+          "constituency": "Hamirpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "229",
+          "constituency": "Rath",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "230",
+          "constituency": "Mahoba",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "231",
+          "constituency": "Charkhari",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "232",
+          "constituency": "Tindwari",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "233",
+          "constituency": "Baberu",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "234",
+          "constituency": "Naraini",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "235",
+          "constituency": "Banda",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "236",
+          "constituency": "Chitrakoot",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "237",
+          "constituency": "Manikpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "238",
+          "constituency": "Jahanabad",
+          "party2022": "",
+          "party2017": "AD(S)",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "239",
+          "constituency": "Bindki",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "240",
+          "constituency": "Fatehpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "241",
+          "constituency": "Ayah Shah",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "242",
+          "constituency": "Husainganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "243",
+          "constituency": "Khaga",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "244",
+          "constituency": "Rampur Khas",
+          "party2022": "",
+          "party2017": "Congress",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "245",
+          "constituency": "Babaganj",
+          "party2022": "",
+          "party2017": "Independent",
+          "party2012": "Independent"
+        },
+        {
+          "constNo": "246",
+          "constituency": "Kunda",
+          "party2022": "",
+          "party2017": "Independent",
+          "party2012": "Independent"
+        },
+        {
+          "constNo": "247",
+          "constituency": "Bishwavnathganj",
+          "party2022": "",
+          "party2017": "AD(S)",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "248",
+          "constituency": "Pratapgarh",
+          "party2022": "",
+          "party2017": "AD(S)",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "249",
+          "constituency": "Patti",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "250",
+          "constituency": "Raniganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "251",
+          "constituency": "Sirathu",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "252",
+          "constituency": "Manjhanpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "253",
+          "constituency": "Chail",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "254",
+          "constituency": "Phaphamau",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "255",
+          "constituency": "Soraon",
+          "party2022": "",
+          "party2017": "AD(S)",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "256",
+          "constituency": "Phulpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "257",
+          "constituency": "Pratappur",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "258",
+          "constituency": "Handia",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "259",
+          "constituency": "Meja",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "260",
+          "constituency": "Karachhana",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "261",
+          "constituency": "Allahabad West",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "262",
+          "constituency": "Allahabad North",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "263",
+          "constituency": "Allahabad South",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "264",
+          "constituency": "Bara",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "265",
+          "constituency": "Koraon",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "266",
+          "constituency": "Kursi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "267",
+          "constituency": "Ram Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "268",
+          "constituency": "Barabanki",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "269",
+          "constituency": "Zaidpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "270",
+          "constituency": "Dariyabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "271",
+          "constituency": "Rudauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "272",
+          "constituency": "Haidergarh",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "273",
+          "constituency": "Milkipur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "274",
+          "constituency": "Bikapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "275",
+          "constituency": "Ayodhya",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "276",
+          "constituency": "Goshainganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "277",
+          "constituency": "Katehari",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "278",
+          "constituency": "Tanda",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "279",
+          "constituency": "Alapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "280",
+          "constituency": "Jalalpur",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "281",
+          "constituency": "Akbarpur",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "282",
+          "constituency": "Balha",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "283",
+          "constituency": "Nanpara",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "284",
+          "constituency": "Matera",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "285",
+          "constituency": "Mahasi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "286",
+          "constituency": "Bahraich",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "287",
+          "constituency": "Payagpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "288",
+          "constituency": "Kaiserganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "289",
+          "constituency": "Bhinga",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "290",
+          "constituency": "Shrawasti",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "291",
+          "constituency": "Tulsipur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "292",
+          "constituency": "Gainsari",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "293",
+          "constituency": "Utraula",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "294",
+          "constituency": "Balrampur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "295",
+          "constituency": "Mehnaun",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "296",
+          "constituency": "Gonda",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "297",
+          "constituency": "Katra Bazar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "298",
+          "constituency": "Colonelganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "299",
+          "constituency": "Tarabganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "300",
+          "constituency": "Mankapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "301",
+          "constituency": "Gaura",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "302",
+          "constituency": "Shohratgarh",
+          "party2022": "",
+          "party2017": "AD(S)",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "303",
+          "constituency": "Kapilvastu",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "304",
+          "constituency": "Bansi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "305",
+          "constituency": "Itwa",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "306",
+          "constituency": "Doomariyaganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Peace Party"
+        },
+        {
+          "constNo": "307",
+          "constituency": "Harraiya",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "308",
+          "constituency": "Kaptanganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "309",
+          "constituency": "Rudhauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "310",
+          "constituency": "Basti Sadar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "311",
+          "constituency": "Mahadewa",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "312",
+          "constituency": "Menhdawal",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "313",
+          "constituency": "Khalilabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Peace Party"
+        },
+        {
+          "constNo": "314",
+          "constituency": "Dhanghata",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "315",
+          "constituency": "Pharenda",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "316",
+          "constituency": "Nautanwa",
+          "party2022": "",
+          "party2017": "Independent",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "317",
+          "constituency": "Siswa",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "318",
+          "constituency": "Maharajganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "319",
+          "constituency": "Paniyara",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "320",
+          "constituency": "Caimpiyarganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "NCP"
+        },
+        {
+          "constNo": "321",
+          "constituency": "Pipraich",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "322",
+          "constituency": "Gorakhpur Urban",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "323",
+          "constituency": "Gorakhpur Rural",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "324",
+          "constituency": "Sahajanwa",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "325",
+          "constituency": "Khajani",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "326",
+          "constituency": "Chauri-Chaura",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "327",
+          "constituency": "Bansgaon",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "328",
+          "constituency": "Chillupar",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "329",
+          "constituency": "Khadda",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "330",
+          "constituency": "Padrauna",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "331",
+          "constituency": "Tamkuhi Raj",
+          "party2022": "",
+          "party2017": "Congress",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "332",
+          "constituency": "Fazilnagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "333",
+          "constituency": "Kushinagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "334",
+          "constituency": "Hata",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "335",
+          "constituency": "Ramkola",
+          "party2022": "",
+          "party2017": "SBSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "336",
+          "constituency": "Rudrapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "337",
+          "constituency": "Deoria",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "338",
+          "constituency": "Pathardeva",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "339",
+          "constituency": "Rampur Karkhana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "340",
+          "constituency": "Bhatpar Rani",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "341",
+          "constituency": "Salempur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "342",
+          "constituency": "Barhaj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "343",
+          "constituency": "Atrauliya",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "344",
+          "constituency": "Gopalpur",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "345",
+          "constituency": "Sagri",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "346",
+          "constituency": "Mubarakpur",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "347",
+          "constituency": "Azamgarh",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "348",
+          "constituency": "Nizamabad",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "349",
+          "constituency": "Phoolpur Pawai",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "350",
+          "constituency": "Didarganj",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "351",
+          "constituency": "Lalganj",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "352",
+          "constituency": "Mehnagar",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "353",
+          "constituency": "Madhuban",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "354",
+          "constituency": "Ghosi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "355",
+          "constituency": "Muhammadabad- Gohna",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "356",
+          "constituency": "Mau",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "Quami Ekta Dal"
+        },
+        {
+          "constNo": "357",
+          "constituency": "Belthara Road",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "358",
+          "constituency": "Rasara",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "359",
+          "constituency": "Sikanderpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "360",
+          "constituency": "Phephana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "361",
+          "constituency": "Ballia Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "362",
+          "constituency": "Bansdih",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "363",
+          "constituency": "Bairia",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "364",
+          "constituency": "Badlapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "365",
+          "constituency": "Shahganj",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "366",
+          "constituency": "Jaunpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "367",
+          "constituency": "Malhani",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "368",
+          "constituency": "Mungra Badshahpur",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "369",
+          "constituency": "Machhlishahr",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "370",
+          "constituency": "Mariyahu",
+          "party2022": "",
+          "party2017": "AD(S)",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "371",
+          "constituency": "Zafrabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "372",
+          "constituency": "Kerakat",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "373",
+          "constituency": "Jakhanian",
+          "party2022": "",
+          "party2017": "SBSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "374",
+          "constituency": "Saidpur",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "375",
+          "constituency": "Ghazipur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "376",
+          "constituency": "Jangipur",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "377",
+          "constituency": "Zahoorabad",
+          "party2022": "",
+          "party2017": "SBSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "378",
+          "constituency": "Mohammadabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Quami Ekta Dal"
+        },
+        {
+          "constNo": "379",
+          "constituency": "Zamania",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "380",
+          "constituency": "Mughalsarai",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "381",
+          "constituency": "Sakaldiha",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "Independent"
+        },
+        {
+          "constNo": "382",
+          "constituency": "Saiyadraja",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Independent"
+        },
+        {
+          "constNo": "383",
+          "constituency": "Chakia",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "384",
+          "constituency": "Pindra",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "385",
+          "constituency": "Ajagara",
+          "party2022": "",
+          "party2017": "SBSP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "386",
+          "constituency": "Shivpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "387",
+          "constituency": "Rohaniya",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Apna Dal"
+        },
+        {
+          "constNo": "388",
+          "constituency": "Varanasi North",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "389",
+          "constituency": "Varanasi South",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "390",
+          "constituency": "Varanasi Cantt",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "391",
+          "constituency": "Sevapuri",
+          "party2022": "",
+          "party2017": "AD(S)",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "392",
+          "constituency": "Bhadohi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "393",
+          "constituency": "Gyanpur",
+          "party2022": "",
+          "party2017": "NISHAD",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "394",
+          "constituency": "Aurai",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "395",
+          "constituency": "Chhanbey",
+          "party2022": "",
+          "party2017": "AD(S)",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "396",
+          "constituency": "Mirzapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "397",
+          "constituency": "Majhawan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "398",
+          "constituency": "Chunar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "399",
+          "constituency": "Marihan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "400",
+          "constituency": "Ghorawal",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "401",
+          "constituency": "Robertsganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "402",
+          "constituency": "Obra",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "403",
+          "constituency": "Duddhi",
+          "party2022": "",
+          "party2017": "AD(S)",
+          "party2012": "Independent"
+        }
+      ],
+      "voteshare": {
+        "2012": [
+          {
+            "party": "undecided",
+            "votes": 403,
+            "votes%": 100,
+            "status": "lead"
+          }
+        ],
+        "2017": [
+          {
+            "party": "BJP",
+            "votes": 58,
+            "votes%": 41.42857142857143,
+            "status": "lead"
+          },
+          {
+            "party": "BSP",
+            "votes": 22,
+            "votes%": 15.714285714285714,
+            "status": "lead"
+          },
+          {
+            "party": "SP",
+            "votes": 19,
+            "votes%": 13.571428571428571,
+            "status": "lead"
+          },
+          {
+            "party": "DDS",
+            "votes": 18,
+            "votes%": 12.857142857142858,
+            "status": "lead"
+          },
+          {
+            "party": "OTH",
+            "votes": 23,
+            "votes%": 16.4285714286,
+            "status": "lead"
+          }
+        ],
+        "2022": [
+          {
+            "party": "undecided",
+            "votes": 403,
+            "votes%": 100,
+            "status": "lead"
+          }
+        ]
+      },
+      "seatshare": {
+        "2012": [
+          {
+            "party": "undecided",
+            "votes": 403,
+            "votes%": 100,
+            "status": "lead"
+          }
+        ],
+        "2017": [
+          {
+            "party": "BJP",
+            "votes": 58,
+            "votes%": 41.42857142857143,
+            "status": "lead"
+          },
+          {
+            "party": "BSP",
+            "votes": 22,
+            "votes%": 15.714285714285714,
+            "status": "lead"
+          },
+          {
+            "party": "SP",
+            "votes": 19,
+            "votes%": 13.571428571428571,
+            "status": "lead"
+          },
+          {
+            "party": "DDS",
+            "votes": 18,
+            "votes%": 12.857142857142858,
+            "status": "lead"
+          },
+          {
+            "party": "OTH",
+            "votes": 23,
+            "votes%": 16.4285714286,
+            "status": "lead"
+          }
+        ],
+        "2022": [
+          {
+            "party": "undecided",
+            "votes": 403,
+            "votes%": 100,
+            "status": "lead"
+          }
+        ]
+      }
+    },
+    "pb": {
+      "stateName": "Punjab",
+      "stateCode": "S24",
+      "vhcode": "pb",
+      "mapsource": "assets/maps/Punjab.json",
+      "scale": 5500,
+      "center": [
+        75.34,
+        31.05
+      ],
+      "stateIntro": "Punjab is a state in northern India. With over 200 million inhabitants, it is the most populated state in India as well as the most populous country subdivision in the world.",
+      "totalVoters": 1416235,
+      "maleVoters": 1416235,
+      "femaleVoters": 1416235,
+      "thirdGender": 1416235,
+      "voterTurnout": "65%",
+      "allAlliances": {
+        "2012": [
+          "BJP",
+          "Samajwadi Party (SP)"
+        ],
+        "2017": [
+          "BJP + Apna Dal (Sonelal) + NISHAD Party",
+          "Samajwadi Party (SP) + Rashtriya Lok Dal (RLD) + Suheldev Bharatiya Samaj Party (SBSP) + Mahan Dal + Janvadi Party (Socialist)"
+        ],
+        "2022": [
+          "BJP + Apna Dal (Sonelal) + NISHAD Party",
+          "Samajwadi Party (SP)"
+        ]
+      },
+      "mapdata": [
+        {
+          "constNo": "1",
+          "constituency": "Behat",
+          "party2022": "",
+          "party2017": "Congress",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "2",
+          "constituency": "Nakur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "3",
+          "constituency": "Saharanpur Nagar",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "4",
+          "constituency": "Saharanpur",
+          "party2022": "",
+          "party2017": "Congress",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "5",
+          "constituency": "Deoband",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "6",
+          "constituency": "Rampur Maniharan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "7",
+          "constituency": "Gangoh",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "8",
+          "constituency": "Kairana",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "9",
+          "constituency": "Thana Bhawan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "10",
+          "constituency": "Shamli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "11",
+          "constituency": "Budhana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "12",
+          "constituency": "Charthawal",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "13",
+          "constituency": "Purqazi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "14",
+          "constituency": "Muzaffar Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "15",
+          "constituency": "Khatauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "16",
+          "constituency": "Meerapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "17",
+          "constituency": "Najibabad",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "18",
+          "constituency": "Nagina",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "19",
+          "constituency": "Barhapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "20",
+          "constituency": "Dhampur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "21",
+          "constituency": "Nehtaur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "22",
+          "constituency": "Bijnor",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "23",
+          "constituency": "Chandpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "24",
+          "constituency": "Noorpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "25",
+          "constituency": "Kanth",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Peace Party"
+        },
+        {
+          "constNo": "26",
+          "constituency": "Thakurdwara",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "27",
+          "constituency": "Moradabad Rural",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "28",
+          "constituency": "Moradabad Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "29",
+          "constituency": "Kundarki",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "30",
+          "constituency": "Bilari",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "31",
+          "constituency": "Chandausi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "32",
+          "constituency": "Asmoli",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "33",
+          "constituency": "Sambhal",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "34",
+          "constituency": "Suar",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "35",
+          "constituency": "Chamraua",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "36",
+          "constituency": "Bilaspur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "37",
+          "constituency": "Rampur",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "38",
+          "constituency": "Milak",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "39",
+          "constituency": "Dhanaura",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "40",
+          "constituency": "Naugawan Sadat",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "41",
+          "constituency": "Amroha",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "42",
+          "constituency": "Hasanpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "43",
+          "constituency": "Siwalkhas",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "44",
+          "constituency": "Sardhana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "45",
+          "constituency": "Hastinapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "46",
+          "constituency": "Kithore",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "47",
+          "constituency": "Meerut Cantt",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "48",
+          "constituency": "Meerut",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "49",
+          "constituency": "Meerut South",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "50",
+          "constituency": "Chhaprauli",
+          "party2022": "",
+          "party2017": "RLD",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "51",
+          "constituency": "Baraut",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "52",
+          "constituency": "Baghpat",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "53",
+          "constituency": "Loni",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "54",
+          "constituency": "Muradnagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "55",
+          "constituency": "Sahibabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "56",
+          "constituency": "Ghaziabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "57",
+          "constituency": "Modi Nagar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "58",
+          "constituency": "Dholana",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "59",
+          "constituency": "Hapur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "60",
+          "constituency": "Garhmukteshwar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "61",
+          "constituency": "Noida",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "62",
+          "constituency": "Dadri",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "63",
+          "constituency": "Jewar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "64",
+          "constituency": "Sikandrabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "65",
+          "constituency": "Bulandshahr",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "66",
+          "constituency": "Syana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "67",
+          "constituency": "Anupshahr",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "68",
+          "constituency": "Debai",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "69",
+          "constituency": "Shikarpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "70",
+          "constituency": "Khurja",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "71",
+          "constituency": "Khair",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "72",
+          "constituency": "Barauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "73",
+          "constituency": "Atrauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "74",
+          "constituency": "Chharra",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "75",
+          "constituency": "Koil",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "76",
+          "constituency": "Aligarh",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "77",
+          "constituency": "Iglas",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "78",
+          "constituency": "Hathras",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "79",
+          "constituency": "Sadabad",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "80",
+          "constituency": "Sikandra Rao",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "81",
+          "constituency": "Chhata",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "82",
+          "constituency": "Mant",
+          "party2022": "",
+          "party2017": "BSP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "83",
+          "constituency": "Goverdhan",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "84",
+          "constituency": "Mathura",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "Congress"
+        },
+        {
+          "constNo": "85",
+          "constituency": "Baldev",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "RLD"
+        },
+        {
+          "constNo": "86",
+          "constituency": "Etmadpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "87",
+          "constituency": "Agra Cantt",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "88",
+          "constituency": "Agra South",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "89",
+          "constituency": "Agra North",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "90",
+          "constituency": "Agra Rural",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "91",
+          "constituency": "Fatehpur Sikri",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "92",
+          "constituency": "Kheragarh",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "93",
+          "constituency": "Fatehabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "94",
+          "constituency": "Bah",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "95",
+          "constituency": "Tundla",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "96",
+          "constituency": "Jasrana",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "97",
+          "constituency": "Firozabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BJP"
+        },
+        {
+          "constNo": "98",
+          "constituency": "Shikohabad",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "99",
+          "constituency": "Sirsaganj",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "100",
+          "constituency": "Kasganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "101",
+          "constituency": "Amanpur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "102",
+          "constituency": "Patiyali",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "103",
+          "constituency": "Aliganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "104",
+          "constituency": "Etah",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "105",
+          "constituency": "Marhara",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "106",
+          "constituency": "Jalesar",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "107",
+          "constituency": "Mainpuri",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "108",
+          "constituency": "Bhongaon",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "109",
+          "constituency": "Kishani",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "110",
+          "constituency": "Karhal",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "111",
+          "constituency": "Gunnaur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "112",
+          "constituency": "Bisauli",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "113",
+          "constituency": "Sahaswan",
+          "party2022": "",
+          "party2017": "SP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "114",
+          "constituency": "Bilsi",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        },
+        {
+          "constNo": "115",
+          "constituency": "Badaun",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "116",
+          "constituency": "Shekhupur",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "SP"
+        },
+        {
+          "constNo": "117",
+          "constituency": "Dataganj",
+          "party2022": "",
+          "party2017": "BJP",
+          "party2012": "BSP"
+        }
+      ],
+      "voteshare": {
+        "2012": [
+          {
+            "party": "undecided",
+            "votes": 403,
+            "votes%": 100,
+            "status": "lead"
+          }
+        ],
+        "2017": [
+          {
+            "party": "BJP",
+            "votes": 58,
+            "votes%": 41.42857142857143,
+            "status": "lead"
+          },
+          {
+            "party": "BSP",
+            "votes": 22,
+            "votes%": 15.714285714285714,
+            "status": "lead"
+          },
+          {
+            "party": "SP",
+            "votes": 19,
+            "votes%": 13.571428571428571,
+            "status": "lead"
+          },
+          {
+            "party": "DDS",
+            "votes": 18,
+            "votes%": 12.857142857142858,
+            "status": "lead"
+          },
+          {
+            "party": "OTH",
+            "votes": 23,
+            "votes%": 16.4285714286,
+            "status": "lead"
+          }
+        ],
+        "2022": [
+          {
+            "party": "undecided",
+            "votes": 403,
+            "votes%": 100,
+            "status": "lead"
+          }
+        ]
+      },
+      "seatshare": {
+        "2012": [
+          {
+            "party": "undecided",
+            "votes": 403,
+            "votes%": 100,
+            "status": "lead"
+          }
+        ],
+        "2017": [
+          {
+            "party": "BJP",
+            "votes": 58,
+            "votes%": 41.42857142857143,
+            "status": "lead"
+          },
+          {
+            "party": "BSP",
+            "votes": 22,
+            "votes%": 15.714285714285714,
+            "status": "lead"
+          },
+          {
+            "party": "SP",
+            "votes": 19,
+            "votes%": 13.571428571428571,
+            "status": "lead"
+          },
+          {
+            "party": "DDS",
+            "votes": 18,
+            "votes%": 12.857142857142858,
+            "status": "lead"
+          },
+          {
+            "party": "OTH",
+            "votes": 23,
+            "votes%": 16.4285714286,
+            "status": "lead"
+          }
+        ],
+        "2022": [
+          {
+            "party": "undecided",
+            "votes": 403,
+            "votes%": 100,
+            "status": "lead"
+          }
+        ]
+      }
+    }
+  },
+  "const": {
+    "up": {
+      "stateURL": "assets/maps/up-v2.json",
+      "stateCenter": [
+        80.9462,
+        27.2
+      ],
+      "stateScale": 2500,
+      "constituencyData": [
+        {
+          "constId": 1,
+          "constName": "Behat",
+          "loksabhaSeats": "Alipurduars",
+          "district": "Saharanpur",
+          "swingSeat": "GEN",
+          "totalVoters": 12336569,
+          "maleVoters": 13283724,
+          "femaleVoters": 13283724,
+          "thirdGender": 13283724,
+          "totalVotesPolled": 250983,
+          "votedMale": 13283724,
+          "votedFemale": 13283724,
+          "votedThirdGender": 13283724,
+          "pastResults": {
+            "winner2017": "INC",
+            "winner2012": "BSP",
+            "turnout2017": 13283724,
+            "turnout2012": 13283724,
+            "victoryMargin2012": 25586,
+            "victoryMargin%2012": 10.2,
+            "victoryMargin2017": 25586,
+            "victoryMargin%2017": 10.2
+          },
+          "allCandidates": [
+            {
+              "constId": 1,
+              "candName": "NARESH SAINI",
+              "party": "INC",
+              "votes": "97035",
+              "votes%": "38.66198109",
+              "status": "won"
+            },
+            {
+              "constId": 1,
+              "candName": "MAHAVEER SINGH RANA",
+              "party": "BJP",
+              "votes": "71449",
+              "votes%": "28.46766514",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "MOHD. IQBAL",
+              "party": "BSP",
+              "votes": "71019",
+              "votes%": "28.2963388",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "RANA ADITYA PRATAP SINGH",
+              "party": "IND",
+              "votes": "4187",
+              "votes%": "1.668240478",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "None of the Above",
+              "party": "NOTA",
+              "votes": "1576",
+              "votes%": "0.627930975",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KAMRAN ALI",
+              "party": "BHASP",
+              "votes": "1255",
+              "votes%": "0.500033867",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "ARUN",
+              "party": "RLD",
+              "votes": "1150",
+              "votes%": "0.458198364",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "HARDHYAN",
+              "party": "IND",
+              "votes": "1113",
+              "votes%": "0.44345633",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "GOPAL SINGH",
+              "party": "IND",
+              "votes": "945",
+              "votes%": "0.376519525",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KRISHNA KUMAR",
+              "party": "IND",
+              "votes": "810",
+              "votes%": "0.322731022",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KALYAN SINGH",
+              "party": "IND",
+              "votes": "659",
+              "votes%": "0.262567584",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "LOKESH VERMA",
+              "party": "BHATARSP",
+              "votes": "617",
+              "votes%": "0.245833383",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "SAKEEM KHAN",
+              "party": "BMUP",
+              "votes": "425",
+              "votes%": "0.169334178",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KARM SINGH",
+              "party": "IND",
+              "votes": "319",
+              "votes%": "0.127100242",
+              "status": "lost"
+            }
+          ],
+          "text": {
+            "Introduction": "<p>Behat is one of the seven Assembly constituencies in the Saharanpur district of Uttar Pradesh. The seat came into existence after delimitation in 2008. Before that, it was part of the Sarsawa Assembly constituency. Located in the lowlands around the Shivalik Hills, this is constituency number one of Uttar Pradesh. This is what adds prestige to Behat and apparently, every party wants to win it. The Mata Shakumbhari Devi Temple in this constituency is very well known and politicians make beeline for the temple before starting their campaign. Behat region is also famous for growing guava and mango. The number of rain-fed rivers in the area is high because of which mining and stone crushing activities are also carried here.</p>",
+            "Demographic Profile": "<p>As per data available with Election Commission, there were a total of 3,36,576 voters in Behat constituency during the 2017 Assembly elections. Out of this, 1,79,920 voters were male and 1,56,649 were female voters. 7 voters belonged to the third gender. 758 were postal votes in the constituency. The number of service voters in Behat in 2017 was 154 (109 were men and 45 were women).</p><p>In 2012, the number of total voters in Behat constituency was 3,03,273. Out of this, 1,64,139 voters were male and 1,39,133 were female voters. One voter on this constituency belonged to 'others' category. There were 477 postal votes in the constituency. The number of service voters in Behat in 2012 was 121 (81 were men and 40 were women).</p><p>Also, the constituency is dominated by Muslims voters. However, voters belonging to Saini and Rajput communities are also in good numbers.</p>",
+            "Past Winners (Candidates and Parties)": "<p>In the 2017 Assembly elections, Congrees party's Naresh Saini had won the seat with a margin of 25,586 votes (10.13% of total valid votes). He was polled 38.66% votes with 97,035 votes. He defeated the Bharatiya Janata Party's (BJP) Mahaveer Singh Rana who got 71,449 votes (28.47%). The Congress had contested 2017 in alliance with the Samajwadi Party (SP). The total number of valid votes polled was 2,52,559. BSP's Mohammad Iqbal came third with 71,019 votes (28.30%).</p><p>In the 2012 Assembly elections, Mahaveer Singh Rana had contested on Bahujan Samaj Party's (BSP) ticket and won the seat. He was polled 31.78% votes with 70,274 votes. Congress party's Naresh Saini had got 69,760 votes and was the runner up. Rana had defeated Saini by a margin of 514 votes (0.23% of total valid votes). The total number of valid votes polled in this constituency was 2,21,122. Samajwadi Party's candidate Umar Ali Khan came third with 47,366 votes (21.42%) and Bharatiya Janata Party's Ajay Chauhan was at distant fourth position with 23,623 votes (10.68%).</p>",
+            "Candidates in 2012 and 2017": "<p>A total of 13 candidates of different political parties contested the 2017 Uttar Pradesh Assembly elections from Behat. The names of candidates were: Naresh Saini (Congress), Mahaveer Singh Rana (BJP), Mohammad Iqbal (BSP), Rana Aditya Pratap Singh (Independent), Kamran Ali (BHASP), Arun (RLD), Hardhyan (Independent), Gopal Singh (Independent), Krishna Kumar (Independent), Kalyan Singh (Independent), Lokesh Verma (BHATARSP), Sakeem Khan (BMUP) and Karm Singh (Independent).</p><p>In 2012, a total of 13 candidates of different political parties contested the Uttar Pradesh Assembly elections from Behat. The name of candidates were: Mahaveer Singh Rana (BSP), Naresh Saini (Congress), Umar Ali Khan (Samajwadi Party). Ajay Chauhan (BJP), Dharam Singh (CPI), Dhaniram (Independent), Arvind (MD), Kari Inam (RUC), Yashpal (ABHM), Abdul Jabbar (NCP), Vikram (VAJP), Irshad Urf Bhoora (RLM) and Mahmood (LD).</p>",
+            "NOTA (None of the Above)": "<p>In 2017, NOTA came fifth with 1,576 votes (0.63%) in the constituency..</p>",
+            "Voter Turnout": "<p>The total number of valid votes polled during the 2017 Assembly elections was 2,52,559 or 75.04%. In 2012, the total number of valid votes on this Assembly seat was 2,21,122 or 72.92%.</p>",
+            "Poll Dates": "<p>In 2017, the voting took place on February 15 in Behat constituency. </p><p>In 2012, the voting was held on February 28 in Behat.</p>",
+            "Result Dates": "<p>In 2017, the result was announced on March 11, 2017. The counting of votes was done on March 6, 2012.</p>",
+            "Number of Polling Stations": "<p>In the 2017 Assembly elections, there were a total of 336 polling stations in Behat constituency. </p><p>In the 2012 Assembly elections, there were a total of 304 polling stations in Behat constituency.</p> ",
+            "Lok Sabha elections 2014 and 2019": "<p>In the 2019 Lok Sabha elections, it was BSP's Haji Fazlur Rehman who was leading from this Assembly constituency with 1,02,693 votes and had eventually emerged as the winner from the Saharanpur Lok Sabha seat. BJP's sitting MP Raghav Lakhanpal had received 91,278 votes from the constituency with Congress candidate Imran Masood was at the third spot with 61,221 votes.</p><p>Overall, Rehman received 5,14,139 votes (41.72%) while BJP's Lakhanpal managed to get 4,91,722 votes (39.90%) in the Saharanpur Lok Sabha constituency. Congress candidate</p><p>Massod came third with 2,07,068 votes (16.80%).</p><p>In the 2014 Lok Sabha elections, Congress party candidate Imran Masood was leading on this Assembly seat with 89,920 votes. BJP's Raghav Lakhanpal was second with 79,365 votes in the constituency, while BSP's Jagdish Singh Rana was at the third spot with 50,582 votes. SP's Shazan Masood received only 16,978 votes from the Assembly seat. However, it was BJP's Raghav Lakhanpal who clinched victory from the Saharanpur Lok Sabha seat at the end. He defeated the Congress candidate by a margin of 65,090 votes. </p>"
+          }
+        },
+        {
+          "constId": 2,
+          "constName": "Nakur",
+          "loksabhaSeats": "Alipurduars",
+          "district": "Saharanpur",
+          "swingSeat": "GEN",
+          "totalVoters": 336569,
+          "maleVoters": 13283724,
+          "femaleVoters": 13283724,
+          "thirdGender": 13283724,
+          "totalVotesPolled": 250983,
+          "votedMale": 13283724,
+          "votedFemale": 13283724,
+          "votedThirdGender": 13283724,
+          "demographics": {
+            "totalElectorate": 336569,
+            "maleVoters": 13283724,
+            "femaleVoters": 13283724,
+            "thirdGender": 13283724,
+            "totalVotesPolled": 250983,
+            "votedMale": 13283724,
+            "votedFemale": 13283724,
+            "votedThirdGender": 13283724
+          },
+          "pastResults": {
+            "winner2017": "INC",
+            "winner2012": "BSP",
+            "turnout2017": 13283724,
+            "turnout2012": 13283724,
+            "victoryMargin2012": 25586,
+            "victoryMargin%2012": 10.2,
+            "victoryMargin2017": 25586,
+            "victoryMargin%2017": 10.2
+          },
+          "allYears": {
+            "party2022": "NA",
+            "party2017": "INC",
+            "party2012": "BSP"
+          },
+          "allCandidates": [
+            {
+              "constId": 1,
+              "candName": "NARESH SAINI",
+              "party": "INC",
+              "votes": "97035",
+              "votes%": "38.66198109",
+              "status": "won"
+            },
+            {
+              "constId": 1,
+              "candName": "MAHAVEER SINGH RANA",
+              "party": "BJP",
+              "votes": "71449",
+              "votes%": "28.46766514",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "MOHD. IQBAL",
+              "party": "BSP",
+              "votes": "71019",
+              "votes%": "28.2963388",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "RANA ADITYA PRATAP SINGH",
+              "party": "IND",
+              "votes": "4187",
+              "votes%": "1.668240478",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "None of the Above",
+              "party": "NOTA",
+              "votes": "1576",
+              "votes%": "0.627930975",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KAMRAN ALI",
+              "party": "BHASP",
+              "votes": "1255",
+              "votes%": "0.500033867",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "ARUN",
+              "party": "RLD",
+              "votes": "1150",
+              "votes%": "0.458198364",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "HARDHYAN",
+              "party": "IND",
+              "votes": "1113",
+              "votes%": "0.44345633",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "GOPAL SINGH",
+              "party": "IND",
+              "votes": "945",
+              "votes%": "0.376519525",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KRISHNA KUMAR",
+              "party": "IND",
+              "votes": "810",
+              "votes%": "0.322731022",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KALYAN SINGH",
+              "party": "IND",
+              "votes": "659",
+              "votes%": "0.262567584",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "LOKESH VERMA",
+              "party": "BHATARSP",
+              "votes": "617",
+              "votes%": "0.245833383",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "SAKEEM KHAN",
+              "party": "BMUP",
+              "votes": "425",
+              "votes%": "0.169334178",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KARM SINGH",
+              "party": "IND",
+              "votes": "319",
+              "votes%": "0.127100242",
+              "status": "lost"
+            }
+          ],
+          "text": {
+            "Introduction": "<p>Nakur is one of the seven Assembly constituencies in the Saharanpur district of Uttar Pradesh. The seat came into existence after delimitation in 2008. Before that, it was part of the Sarsawa Assembly constituency. Located in the lowlands around the Shivalik Hills, this is constituency number one of Uttar Pradesh. This is what adds prestige to Behat and apparently, every party wants to win it. The Mata Shakumbhari Devi Temple in this constituency is very well known and politicians make beeline for the temple before starting their campaign. Behat region is also famous for growing guava and mango. The number of rain-fed rivers in the area is high because of which mining and stone crushing activities are also carried here.</p>",
+            "Demographic Profile": "<p>As per data available with Election Commission, there were a total of 3,36,576 voters in Behat constituency during the 2017 Assembly elections. Out of this, 1,79,920 voters were male and 1,56,649 were female voters. 7 voters belonged to the third gender. 758 were postal votes in the constituency. The number of service voters in Behat in 2017 was 154 (109 were men and 45 were women).</p><p>In 2012, the number of total voters in Behat constituency was 3,03,273. Out of this, 1,64,139 voters were male and 1,39,133 were female voters. One voter on this constituency belonged to 'others' category. There were 477 postal votes in the constituency. The number of service voters in Behat in 2012 was 121 (81 were men and 40 were women).</p><p>Also, the constituency is dominated by Muslims voters. However, voters belonging to Saini and Rajput communities are also in good numbers.</p>",
+            "Past Winners (Candidates and Parties)": "<p>In the 2017 Assembly elections, Congrees party's Naresh Saini had won the seat with a margin of 25,586 votes (10.13% of total valid votes). He was polled 38.66% votes with 97,035 votes. He defeated the Bharatiya Janata Party's (BJP) Mahaveer Singh Rana who got 71,449 votes (28.47%). The Congress had contested 2017 in alliance with the Samajwadi Party (SP). The total number of valid votes polled was 2,52,559. BSP's Mohammad Iqbal came third with 71,019 votes (28.30%).</p><p>In the 2012 Assembly elections, Mahaveer Singh Rana had contested on Bahujan Samaj Party's (BSP) ticket and won the seat. He was polled 31.78% votes with 70,274 votes. Congress party's Naresh Saini had got 69,760 votes and was the runner up. Rana had defeated Saini by a margin of 514 votes (0.23% of total valid votes). The total number of valid votes polled in this constituency was 2,21,122. Samajwadi Party's candidate Umar Ali Khan came third with 47,366 votes (21.42%) and Bharatiya Janata Party's Ajay Chauhan was at distant fourth position with 23,623 votes (10.68%).</p>",
+            "Candidates in 2012 and 2017": "<p>A total of 13 candidates of different political parties contested the 2017 Uttar Pradesh Assembly elections from Behat. The names of candidates were: Naresh Saini (Congress), Mahaveer Singh Rana (BJP), Mohammad Iqbal (BSP), Rana Aditya Pratap Singh (Independent), Kamran Ali (BHASP), Arun (RLD), Hardhyan (Independent), Gopal Singh (Independent), Krishna Kumar (Independent), Kalyan Singh (Independent), Lokesh Verma (BHATARSP), Sakeem Khan (BMUP) and Karm Singh (Independent).</p><p>In 2012, a total of 13 candidates of different political parties contested the Uttar Pradesh Assembly elections from Behat. The name of candidates were: Mahaveer Singh Rana (BSP), Naresh Saini (Congress), Umar Ali Khan (Samajwadi Party). Ajay Chauhan (BJP), Dharam Singh (CPI), Dhaniram (Independent), Arvind (MD), Kari Inam (RUC), Yashpal (ABHM), Abdul Jabbar (NCP), Vikram (VAJP), Irshad Urf Bhoora (RLM) and Mahmood (LD).</p>",
+            "NOTA (None of the Above)": "<p>In 2017, NOTA came fifth with 1,576 votes (0.63%) in the constituency..</p>",
+            "Voter Turnout": "<p>The total number of valid votes polled during the 2017 Assembly elections was 2,52,559 or 75.04%. In 2012, the total number of valid votes on this Assembly seat was 2,21,122 or 72.92%.</p>",
+            "Poll Dates": "<p>In 2017, the voting took place on February 15 in Behat constituency. </p><p>In 2012, the voting was held on February 28 in Behat.</p>",
+            "Result Dates": "<p>In 2017, the result was announced on March 11, 2017. The counting of votes was done on March 6, 2012.</p>",
+            "Number of Polling Stations": "<p>In the 2017 Assembly elections, there were a total of 336 polling stations in Behat constituency. </p><p>In the 2012 Assembly elections, there were a total of 304 polling stations in Behat constituency.</p> ",
+            "Lok Sabha elections 2014 and 2019": "<p>In the 2019 Lok Sabha elections, it was BSP's Haji Fazlur Rehman who was leading from this Assembly constituency with 1,02,693 votes and had eventually emerged as the winner from the Saharanpur Lok Sabha seat. BJP's sitting MP Raghav Lakhanpal had received 91,278 votes from the constituency with Congress candidate Imran Masood was at the third spot with 61,221 votes.</p><p>Overall, Rehman received 5,14,139 votes (41.72%) while BJP's Lakhanpal managed to get 4,91,722 votes (39.90%) in the Saharanpur Lok Sabha constituency. Congress candidate</p><p>Massod came third with 2,07,068 votes (16.80%).</p><p>In the 2014 Lok Sabha elections, Congress party candidate Imran Masood was leading on this Assembly seat with 89,920 votes. BJP's Raghav Lakhanpal was second with 79,365 votes in the constituency, while BSP's Jagdish Singh Rana was at the third spot with 50,582 votes. SP's Shazan Masood received only 16,978 votes from the Assembly seat. However, it was BJP's Raghav Lakhanpal who clinched victory from the Saharanpur Lok Sabha seat at the end. He defeated the Congress candidate by a margin of 65,090 votes. </p>"
+          }
+        }
+      ]
+    },
+    "pb": {
+      "stateURL": "assets/maps/Punjab.json",
+      "stateCenter": [
+        75.34,
+        31.05
+      ],
+      "stateScale": 5500,
+      "constituencyData": [
+        {
+          "constId": 1,
+          "constName": "Sujanpur",
+          "loksabhaSeats": "Alipurduars",
+          "district": "Saharanpur",
+          "swingSeat": "GEN",
+          "totalVoters": 12336569,
+          "maleVoters": 13283724,
+          "femaleVoters": 13283724,
+          "thirdGender": 13283724,
+          "totalVotesPolled": 250983,
+          "votedMale": 13283724,
+          "votedFemale": 13283724,
+          "votedThirdGender": 13283724,
+          "winner2017": "INC",
+          "winner2012": "BSP",
+          "turnout2017": 13283724,
+          "turnout2012": 13283724,
+          "victoryMargin2012": 25586,
+          "victoryMargin%2012": 10.2,
+          "victoryMargin2017": 25586,
+          "victoryMargin%2017": 10.2,
+          "pastResults": {
+            "winner2017": "INC",
+            "winner2012": "BSP",
+            "turnout2017": 13283724,
+            "turnout2012": 13283724,
+            "victoryMargin2012": 25586,
+            "victoryMargin%2012": 10.2,
+            "victoryMargin2017": 25586,
+            "victoryMargin%2017": 10.2
+          },
+          "allCandidates": [
+            {
+              "constId": 1,
+              "candName": "NARESH SAINI",
+              "party": "INC",
+              "votes": "97035",
+              "votes%": "38.66198109",
+              "status": "won"
+            },
+            {
+              "constId": 1,
+              "candName": "MAHAVEER SINGH RANA",
+              "party": "BJP",
+              "votes": "71449",
+              "votes%": "28.46766514",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "MOHD. IQBAL",
+              "party": "BSP",
+              "votes": "71019",
+              "votes%": "28.2963388",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "RANA ADITYA PRATAP SINGH",
+              "party": "IND",
+              "votes": "4187",
+              "votes%": "1.668240478",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "None of the Above",
+              "party": "NOTA",
+              "votes": "1576",
+              "votes%": "0.627930975",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KAMRAN ALI",
+              "party": "BHASP",
+              "votes": "1255",
+              "votes%": "0.500033867",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "ARUN",
+              "party": "RLD",
+              "votes": "1150",
+              "votes%": "0.458198364",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "HARDHYAN",
+              "party": "IND",
+              "votes": "1113",
+              "votes%": "0.44345633",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "GOPAL SINGH",
+              "party": "IND",
+              "votes": "945",
+              "votes%": "0.376519525",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KRISHNA KUMAR",
+              "party": "IND",
+              "votes": "810",
+              "votes%": "0.322731022",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KALYAN SINGH",
+              "party": "IND",
+              "votes": "659",
+              "votes%": "0.262567584",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "LOKESH VERMA",
+              "party": "BHATARSP",
+              "votes": "617",
+              "votes%": "0.245833383",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "SAKEEM KHAN",
+              "party": "BMUP",
+              "votes": "425",
+              "votes%": "0.169334178",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KARM SINGH",
+              "party": "IND",
+              "votes": "319",
+              "votes%": "0.127100242",
+              "status": "lost"
+            }
+          ],
+          "text": {
+            "Introduction": "<p>Behat is one of the seven Assembly constituencies in the Saharanpur district of Uttar Pradesh. The seat came into existence after delimitation in 2008. Before that, it was part of the Sarsawa Assembly constituency. Located in the lowlands around the Shivalik Hills, this is constituency number one of Uttar Pradesh. This is what adds prestige to Behat and apparently, every party wants to win it. The Mata Shakumbhari Devi Temple in this constituency is very well known and politicians make beeline for the temple before starting their campaign. Behat region is also famous for growing guava and mango. The number of rain-fed rivers in the area is high because of which mining and stone crushing activities are also carried here.</p>",
+            "Demographic Profile": "<p>As per data available with Election Commission, there were a total of 3,36,576 voters in Behat constituency during the 2017 Assembly elections. Out of this, 1,79,920 voters were male and 1,56,649 were female voters. 7 voters belonged to the third gender. 758 were postal votes in the constituency. The number of service voters in Behat in 2017 was 154 (109 were men and 45 were women).</p><p>In 2012, the number of total voters in Behat constituency was 3,03,273. Out of this, 1,64,139 voters were male and 1,39,133 were female voters. One voter on this constituency belonged to 'others' category. There were 477 postal votes in the constituency. The number of service voters in Behat in 2012 was 121 (81 were men and 40 were women).</p><p>Also, the constituency is dominated by Muslims voters. However, voters belonging to Saini and Rajput communities are also in good numbers.</p>",
+            "Past Winners (Candidates and Parties)": "<p>In the 2017 Assembly elections, Congrees party's Naresh Saini had won the seat with a margin of 25,586 votes (10.13% of total valid votes). He was polled 38.66% votes with 97,035 votes. He defeated the Bharatiya Janata Party's (BJP) Mahaveer Singh Rana who got 71,449 votes (28.47%). The Congress had contested 2017 in alliance with the Samajwadi Party (SP). The total number of valid votes polled was 2,52,559. BSP's Mohammad Iqbal came third with 71,019 votes (28.30%).</p><p>In the 2012 Assembly elections, Mahaveer Singh Rana had contested on Bahujan Samaj Party's (BSP) ticket and won the seat. He was polled 31.78% votes with 70,274 votes. Congress party's Naresh Saini had got 69,760 votes and was the runner up. Rana had defeated Saini by a margin of 514 votes (0.23% of total valid votes). The total number of valid votes polled in this constituency was 2,21,122. Samajwadi Party's candidate Umar Ali Khan came third with 47,366 votes (21.42%) and Bharatiya Janata Party's Ajay Chauhan was at distant fourth position with 23,623 votes (10.68%).</p>",
+            "Candidates in 2012 and 2017": "<p>A total of 13 candidates of different political parties contested the 2017 Uttar Pradesh Assembly elections from Behat. The names of candidates were: Naresh Saini (Congress), Mahaveer Singh Rana (BJP), Mohammad Iqbal (BSP), Rana Aditya Pratap Singh (Independent), Kamran Ali (BHASP), Arun (RLD), Hardhyan (Independent), Gopal Singh (Independent), Krishna Kumar (Independent), Kalyan Singh (Independent), Lokesh Verma (BHATARSP), Sakeem Khan (BMUP) and Karm Singh (Independent).</p><p>In 2012, a total of 13 candidates of different political parties contested the Uttar Pradesh Assembly elections from Behat. The name of candidates were: Mahaveer Singh Rana (BSP), Naresh Saini (Congress), Umar Ali Khan (Samajwadi Party). Ajay Chauhan (BJP), Dharam Singh (CPI), Dhaniram (Independent), Arvind (MD), Kari Inam (RUC), Yashpal (ABHM), Abdul Jabbar (NCP), Vikram (VAJP), Irshad Urf Bhoora (RLM) and Mahmood (LD).</p>",
+            "tNOTA (None of the Above)": "<p>In 2017, NOTA came fifth with 1,576 votes (0.63%) in the constituency..</p>",
+            "Voter Turnout": "<p>The total number of valid votes polled during the 2017 Assembly elections was 2,52,559 or 75.04%. In 2012, the total number of valid votes on this Assembly seat was 2,21,122 or 72.92%.</p>",
+            "Poll Dates": "<p>In 2017, the voting took place on February 15 in Behat constituency. </p><p>In 2012, the voting was held on February 28 in Behat.</p>",
+            "Result Dates": "<p>In 2017, the result was announced on March 11, 2017. The counting of votes was done on March 6, 2012.</p>",
+            "Number of Polling Stations": "<p>In the 2017 Assembly elections, there were a total of 336 polling stations in Behat constituency. </p><p>In the 2012 Assembly elections, there were a total of 304 polling stations in Behat constituency.</p> ",
+            "Lok Sabha elections 2014 and 2019": "<p>In the 2019 Lok Sabha elections, it was BSP's Haji Fazlur Rehman who was leading from this Assembly constituency with 1,02,693 votes and had eventually emerged as the winner from the Saharanpur Lok Sabha seat. BJP's sitting MP Raghav Lakhanpal had received 91,278 votes from the constituency with Congress candidate Imran Masood was at the third spot with 61,221 votes.</p><p>Overall, Rehman received 5,14,139 votes (41.72%) while BJP's Lakhanpal managed to get 4,91,722 votes (39.90%) in the Saharanpur Lok Sabha constituency. Congress candidate</p><p>Massod came third with 2,07,068 votes (16.80%).</p><p>In the 2014 Lok Sabha elections, Congress party candidate Imran Masood was leading on this Assembly seat with 89,920 votes. BJP's Raghav Lakhanpal was second with 79,365 votes in the constituency, while BSP's Jagdish Singh Rana was at the third spot with 50,582 votes. SP's Shazan Masood received only 16,978 votes from the Assembly seat. However, it was BJP's Raghav Lakhanpal who clinched victory from the Saharanpur Lok Sabha seat at the end. He defeated the Congress candidate by a margin of 65,090 votes. </p>"
+          }
+        },
+        {
+          "constId": 2,
+          "constName": "Bhoa",
+          "loksabhaSeats": "Alipurduars",
+          "district": "Saharanpur",
+          "swingSeat": "GEN",
+          "totalVoters": 336569,
+          "maleVoters": 13283724,
+          "femaleVoters": 13283724,
+          "thirdGender": 13283724,
+          "totalVotesPolled": 250983,
+          "votedMale": 13283724,
+          "votedFemale": 13283724,
+          "votedThirdGender": 13283724,
+          "demographics": {
+            "totalElectorate": 336569,
+            "maleVoters": 13283724,
+            "femaleVoters": 13283724,
+            "thirdGender": 13283724,
+            "totalVotesPolled": 250983,
+            "votedMale": 13283724,
+            "votedFemale": 13283724,
+            "votedThirdGender": 13283724
+          },
+          "pastResults": {
+            "winner2017": "INC",
+            "winner2012": "BSP",
+            "turnout2017": 13283724,
+            "turnout2012": 13283724,
+            "victoryMargin2012": 25586,
+            "victoryMargin%2012": 10.2,
+            "victoryMargin2017": 25586,
+            "victoryMargin%2017": 10.2
+          },
+          "allYears": {
+            "party2022": "NA",
+            "party2017": "INC",
+            "party2012": "BSP"
+          },
+          "allCandidates": [
+            {
+              "constId": 1,
+              "candName": "NARESH SAINI",
+              "party": "INC",
+              "votes": "97035",
+              "votes%": "38.66198109",
+              "status": "won"
+            },
+            {
+              "constId": 1,
+              "candName": "MAHAVEER SINGH RANA",
+              "party": "BJP",
+              "votes": "71449",
+              "votes%": "28.46766514",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "MOHD. IQBAL",
+              "party": "BSP",
+              "votes": "71019",
+              "votes%": "28.2963388",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "RANA ADITYA PRATAP SINGH",
+              "party": "IND",
+              "votes": "4187",
+              "votes%": "1.668240478",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "None of the Above",
+              "party": "NOTA",
+              "votes": "1576",
+              "votes%": "0.627930975",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KAMRAN ALI",
+              "party": "BHASP",
+              "votes": "1255",
+              "votes%": "0.500033867",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "ARUN",
+              "party": "RLD",
+              "votes": "1150",
+              "votes%": "0.458198364",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "HARDHYAN",
+              "party": "IND",
+              "votes": "1113",
+              "votes%": "0.44345633",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "GOPAL SINGH",
+              "party": "IND",
+              "votes": "945",
+              "votes%": "0.376519525",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KRISHNA KUMAR",
+              "party": "IND",
+              "votes": "810",
+              "votes%": "0.322731022",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KALYAN SINGH",
+              "party": "IND",
+              "votes": "659",
+              "votes%": "0.262567584",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "LOKESH VERMA",
+              "party": "BHATARSP",
+              "votes": "617",
+              "votes%": "0.245833383",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "SAKEEM KHAN",
+              "party": "BMUP",
+              "votes": "425",
+              "votes%": "0.169334178",
+              "status": "lost"
+            },
+            {
+              "constId": 1,
+              "candName": "KARM SINGH",
+              "party": "IND",
+              "votes": "319",
+              "votes%": "0.127100242",
+              "status": "lost"
+            }
+          ],
+          "text": {
+            "Introduction": "<p>Nakur is one of the seven Assembly constituencies in the Saharanpur district of Uttar Pradesh. The seat came into existence after delimitation in 2008. Before that, it was part of the Sarsawa Assembly constituency. Located in the lowlands around the Shivalik Hills, this is constituency number one of Uttar Pradesh. This is what adds prestige to Behat and apparently, every party wants to win it. The Mata Shakumbhari Devi Temple in this constituency is very well known and politicians make beeline for the temple before starting their campaign. Behat region is also famous for growing guava and mango. The number of rain-fed rivers in the area is high because of which mining and stone crushing activities are also carried here.</p>",
+            "Demographic Profile": "<p>As per data available with Election Commission, there were a total of 3,36,576 voters in Behat constituency during the 2017 Assembly elections. Out of this, 1,79,920 voters were male and 1,56,649 were female voters. 7 voters belonged to the third gender. 758 were postal votes in the constituency. The number of service voters in Behat in 2017 was 154 (109 were men and 45 were women).</p><p>In 2012, the number of total voters in Behat constituency was 3,03,273. Out of this, 1,64,139 voters were male and 1,39,133 were female voters. One voter on this constituency belonged to 'others' category. There were 477 postal votes in the constituency. The number of service voters in Behat in 2012 was 121 (81 were men and 40 were women).</p><p>Also, the constituency is dominated by Muslims voters. However, voters belonging to Saini and Rajput communities are also in good numbers.</p>",
+            "Past Winners (Candidates and Parties)": "<p>In the 2017 Assembly elections, Congrees party's Naresh Saini had won the seat with a margin of 25,586 votes (10.13% of total valid votes). He was polled 38.66% votes with 97,035 votes. He defeated the Bharatiya Janata Party's (BJP) Mahaveer Singh Rana who got 71,449 votes (28.47%). The Congress had contested 2017 in alliance with the Samajwadi Party (SP). The total number of valid votes polled was 2,52,559. BSP's Mohammad Iqbal came third with 71,019 votes (28.30%).</p><p>In the 2012 Assembly elections, Mahaveer Singh Rana had contested on Bahujan Samaj Party's (BSP) ticket and won the seat. He was polled 31.78% votes with 70,274 votes. Congress party's Naresh Saini had got 69,760 votes and was the runner up. Rana had defeated Saini by a margin of 514 votes (0.23% of total valid votes). The total number of valid votes polled in this constituency was 2,21,122. Samajwadi Party's candidate Umar Ali Khan came third with 47,366 votes (21.42%) and Bharatiya Janata Party's Ajay Chauhan was at distant fourth position with 23,623 votes (10.68%).</p>",
+            "Candidates in 2012 and 2017": "<p>A total of 13 candidates of different political parties contested the 2017 Uttar Pradesh Assembly elections from Behat. The names of candidates were: Naresh Saini (Congress), Mahaveer Singh Rana (BJP), Mohammad Iqbal (BSP), Rana Aditya Pratap Singh (Independent), Kamran Ali (BHASP), Arun (RLD), Hardhyan (Independent), Gopal Singh (Independent), Krishna Kumar (Independent), Kalyan Singh (Independent), Lokesh Verma (BHATARSP), Sakeem Khan (BMUP) and Karm Singh (Independent).</p><p>In 2012, a total of 13 candidates of different political parties contested the Uttar Pradesh Assembly elections from Behat. The name of candidates were: Mahaveer Singh Rana (BSP), Naresh Saini (Congress), Umar Ali Khan (Samajwadi Party). Ajay Chauhan (BJP), Dharam Singh (CPI), Dhaniram (Independent), Arvind (MD), Kari Inam (RUC), Yashpal (ABHM), Abdul Jabbar (NCP), Vikram (VAJP), Irshad Urf Bhoora (RLM) and Mahmood (LD).</p>",
+            "NOTA (None of the Above)": "<p>In 2017, NOTA came fifth with 1,576 votes (0.63%) in the constituency..</p>",
+            "Voter Turnout": "<p>The total number of valid votes polled during the 2017 Assembly elections was 2,52,559 or 75.04%. In 2012, the total number of valid votes on this Assembly seat was 2,21,122 or 72.92%.</p>",
+            "Poll Dates": "<p>In 2017, the voting took place on February 15 in Behat constituency. </p><p>In 2012, the voting was held on February 28 in Behat.</p>",
+            "Result Dates": "<p>In 2017, the result was announced on March 11, 2017. The counting of votes was done on March 6, 2012.</p>",
+            "Number of Polling Stations": "<p>In the 2017 Assembly elections, there were a total of 336 polling stations in Behat constituency. </p><p>In the 2012 Assembly elections, there were a total of 304 polling stations in Behat constituency.</p> ",
+            "Lok Sabha elections 2014 and 2019": "<p>In the 2019 Lok Sabha elections, it was BSP's Haji Fazlur Rehman who was leading from this Assembly constituency with 1,02,693 votes and had eventually emerged as the winner from the Saharanpur Lok Sabha seat. BJP's sitting MP Raghav Lakhanpal had received 91,278 votes from the constituency with Congress candidate Imran Masood was at the third spot with 61,221 votes.</p><p>Overall, Rehman received 5,14,139 votes (41.72%) while BJP's Lakhanpal managed to get 4,91,722 votes (39.90%) in the Saharanpur Lok Sabha constituency. Congress candidate</p><p>Massod came third with 2,07,068 votes (16.80%).</p><p>In the 2014 Lok Sabha elections, Congress party candidate Imran Masood was leading on this Assembly seat with 89,920 votes. BJP's Raghav Lakhanpal was second with 79,365 votes in the constituency, while BSP's Jagdish Singh Rana was at the third spot with 50,582 votes. SP's Shazan Masood received only 16,978 votes from the Assembly seat. However, it was BJP's Raghav Lakhanpal who clinched victory from the Saharanpur Lok Sabha seat at the end. He defeated the Congress candidate by a margin of 65,090 votes. </p>"
+          }
+        }
+      ]
+    }
+  },
+  "party": {
+    "up": [
+      {
+        "party-name": "Bahujan Samajwadi Party",
+        "party-abbr": "BSP",
+        "party-logo": "https://via.placeholder.com/125",
+        "party-intro": "<p>The Bahujan Samaj Party (BSP) is a national level political party in India that was formed to represent Bahujans (literally means \"people in majority\"), referring to Scheduled Castes, Scheduled Tribes, and Other Backward Classes (OBC), along with religious minorities.</p>",
+        "cand-list": {
+          "2012": [
+            {
+              "constId": 395,
+              "constName": "Chhanbey",
+              "candName": "Rahul Prakash",
+              "party": "Apna Dal",
+              "votes": 107007,
+              "votes%": 50.62,
+              "status": "Won"
+            },
+            {
+              "constId": 403,
+              "constName": "Duddhi",
+              "candName": "Hariram",
+              "party": "Apna Dal",
+              "votes": 64399,
+              "votes%": 34.24,
+              "status": "Won"
+            }
+          ],
+          "2017": [
+            {
+              "constId": 238,
+              "constName": "Jahanabad",
+              "candName": "Jai Kumar Singh Jaiki",
+              "party": "Apna Dal",
+              "votes": 81438,
+              "votes%": 45.18,
+              "status": "Won"
+            },
+            {
+              "constId": 247,
+              "constName": "Vishwanathganj",
+              "candName": "Rakesh Kumar Verma",
+              "party": "Apna Dal",
+              "votes": 81899,
+              "votes%": 42.07,
+              "status": "Won"
+            },
+            {
+              "constId": 248,
+              "constName": "Pratapgarh",
+              "candName": "Sangam Lal Gupta",
+              "party": "Apna Dal",
+              "votes": 80828,
+              "votes%": 44.17,
+              "status": "Won"
+            },
+            {
+              "constId": 255,
+              "constName": "Soraon",
+              "candName": "Jamuna Prasad Saroj",
+              "party": "Apna Dal",
+              "votes": 77814,
+              "votes%": 37.02,
+              "status": "Won"
+            },
+            {
+              "constId": 257,
+              "constName": "Pratappur",
+              "candName": "Karan Singh",
+              "party": "Apna Dal",
+              "votes": 64151,
+              "votes%": 31.33,
+              "status": "Lost"
+            },
+            {
+              "constId": 258,
+              "constName": "Handia",
+              "candName": "Pramila Tripathi",
+              "party": "Apna Dal",
+              "votes": 63920,
+              "votes%": 32.01,
+              "status": "Lost"
+            },
+            {
+              "constId": 302,
+              "constName": "Shohratgarh",
+              "candName": "Amar Singh Chaudhary",
+              "party": "Apna Dal",
+              "votes": 67653,
+              "votes%": 36.53,
+              "status": "Won"
+            },
+            {
+              "constId": 370,
+              "constName": "Mariyahu",
+              "candName": "Leena Tiwari",
+              "party": "Apna Dal",
+              "votes": 58804,
+              "votes%": 32.88,
+              "status": "Won"
+            },
+            {
+              "constId": 391,
+              "constName": "Sevapuri",
+              "candName": "Neel Ratan Singh Patel",
+              "party": "Apna Dal",
+              "votes": 103423,
+              "votes%": 50.48,
+              "status": "Won"
+            },
+            {
+              "constId": 395,
+              "constName": "Chhanbey",
+              "candName": "Rahul Prakash",
+              "party": "Apna Dal",
+              "votes": 107007,
+              "votes%": 50.62,
+              "status": "Won"
+            },
+            {
+              "constId": 403,
+              "constName": "Duddhi",
+              "candName": "Hariram",
+              "party": "Apna Dal",
+              "votes": 64399,
+              "votes%": 34.24,
+              "status": "Won"
+            }
+          ]
+        }
+      },
+      {
+        "party-name": "Apna Dal",
+        "party-abbr": "AD",
+        "party-logo": "https://via.placeholder.com/125",
+        "party-intro": "<p>The Apna Dal (AD) is a national level political party in India that was formed to represent Bahujans (literally means \"people in majority\"), referring to Scheduled Castes, Scheduled Tribes, and Other Backward Classes (OBC), along with religious minorities.</p>",
+        "cand-list": {
+          "2012": [
+            {
+              "constId": 238,
+              "constName": "Jahanabad",
+              "candName": "Jai Kumar Singh Jaiki",
+              "party": "Apna Dal",
+              "votes": 81438,
+              "votes%": 45.18,
+              "status": "Won"
+            },
+            {
+              "constId": 247,
+              "constName": "Vishwanathganj",
+              "candName": "Rakesh Kumar Verma",
+              "party": "Apna Dal",
+              "votes": 81899,
+              "votes%": 42.07,
+              "status": "Won"
+            },
+            {
+              "constId": 248,
+              "constName": "Pratapgarh",
+              "candName": "Sangam Lal Gupta",
+              "party": "Apna Dal",
+              "votes": 80828,
+              "votes%": 44.17,
+              "status": "Won"
+            },
+            {
+              "constId": 255,
+              "constName": "Soraon",
+              "candName": "Jamuna Prasad Saroj",
+              "party": "Apna Dal",
+              "votes": 77814,
+              "votes%": 37.02,
+              "status": "Won"
+            },
+            {
+              "constId": 257,
+              "constName": "Pratappur",
+              "candName": "Karan Singh",
+              "party": "Apna Dal",
+              "votes": 64151,
+              "votes%": 31.33,
+              "status": "Lost"
+            },
+            {
+              "constId": 258,
+              "constName": "Handia",
+              "candName": "Pramila Tripathi",
+              "party": "Apna Dal",
+              "votes": 63920,
+              "votes%": 32.01,
+              "status": "Lost"
+            },
+            {
+              "constId": 302,
+              "constName": "Shohratgarh",
+              "candName": "Amar Singh Chaudhary",
+              "party": "Apna Dal",
+              "votes": 67653,
+              "votes%": 36.53,
+              "status": "Won"
+            },
+            {
+              "constId": 370,
+              "constName": "Mariyahu",
+              "candName": "Leena Tiwari",
+              "party": "Apna Dal",
+              "votes": 58804,
+              "votes%": 32.88,
+              "status": "Won"
+            },
+            {
+              "constId": 391,
+              "constName": "Sevapuri",
+              "candName": "Neel Ratan Singh Patel",
+              "party": "Apna Dal",
+              "votes": 103423,
+              "votes%": 50.48,
+              "status": "Won"
+            },
+            {
+              "constId": 395,
+              "constName": "Chhanbey",
+              "candName": "Rahul Prakash",
+              "party": "Apna Dal",
+              "votes": 107007,
+              "votes%": 50.62,
+              "status": "Won"
+            },
+            {
+              "constId": 403,
+              "constName": "Duddhi",
+              "candName": "Hariram",
+              "party": "Apna Dal",
+              "votes": 64399,
+              "votes%": 34.24,
+              "status": "Won"
+            }
+          ],
+          "2017": [
+            {
+              "constId": 248,
+              "constName": "Pratapgarh",
+              "candName": "Sangam Lal Gupta",
+              "party": "Apna Dal",
+              "votes": 80828,
+              "votes%": 44.17,
+              "status": "Won"
+            },
+            {
+              "constId": 255,
+              "constName": "Soraon",
+              "candName": "Jamuna Prasad Saroj",
+              "party": "Apna Dal",
+              "votes": 77814,
+              "votes%": 37.02,
+              "status": "Won"
+            },
+            {
+              "constId": 257,
+              "constName": "Pratappur",
+              "candName": "Karan Singh",
+              "party": "Apna Dal",
+              "votes": 64151,
+              "votes%": 31.33,
+              "status": "Lost"
+            },
+            {
+              "constId": 258,
+              "constName": "Handia",
+              "candName": "Pramila Tripathi",
+              "party": "Apna Dal",
+              "votes": 63920,
+              "votes%": 32.01,
+              "status": "Lost"
+            },
+            {
+              "constId": 302,
+              "constName": "Shohratgarh",
+              "candName": "Amar Singh Chaudhary",
+              "party": "Apna Dal",
+              "votes": 67653,
+              "votes%": 36.53,
+              "status": "Won"
+            },
+            {
+              "constId": 370,
+              "constName": "Mariyahu",
+              "candName": "Leena Tiwari",
+              "party": "Apna Dal",
+              "votes": 58804,
+              "votes%": 32.88,
+              "status": "Won"
+            },
+            {
+              "constId": 391,
+              "constName": "Sevapuri",
+              "candName": "Neel Ratan Singh Patel",
+              "party": "Apna Dal",
+              "votes": 103423,
+              "votes%": 50.48,
+              "status": "Won"
+            },
+            {
+              "constId": 395,
+              "constName": "Chhanbey",
+              "candName": "Rahul Prakash",
+              "party": "Apna Dal",
+              "votes": 107007,
+              "votes%": 50.62,
+              "status": "Won"
+            },
+            {
+              "constId": 403,
+              "constName": "Duddhi",
+              "candName": "Hariram",
+              "party": "Apna Dal",
+              "votes": 64399,
+              "votes%": 34.24,
+              "status": "Won"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "cand": {
+    "up": [
+      {
+        "id": 1,
+        "name": "Yogi Adityanath",
+        "constituency": "Gorakhpur",
+        "state": "Uttar Pradesh",
+        "age": 49,
+        "seat-type": "GEN",
+        "party": "BJP",
+        "pic": "https://via.placeholder.com/300",
+        "intro": "<p>Yogi Adityanath (born Ajay Mohan Bisht; 5 June 1972 ) is an Indian Hindu monk and politician serving as the 22nd and current Chief Minister of Uttar Pradesh, in office since 19 March 2017.</p>",
+        "criminalcases": 25,
+        "education": "Graduate",
+        "total-assets": "10 Crore",
+        "total-liabilities": "20 Crore"
+      },
+      {
+        "id": 2,
+        "name": "Yogi Adityanath2",
+        "constituency": "BJP",
+        "state": "BJP",
+        "age": "BJP",
+        "seat-type": "BJP",
+        "party": "BJP",
+        "pic": "https://via.placeholder.com/300",
+        "intro": "<p>The Bahujan Samaj Party (BSP) is a national level political party in India that was formed to represent Bahujans (literally means \"people in majority\"), referring to Scheduled Castes, Scheduled Tribes, and Other Backward Classes (OBC), along with religious minorities.</p>",
+        "criminalcases": "0",
+        "education": "0",
+        "total-assets": "0",
+        "total-liabilities": "0"
+      }
+    ]
+  }
+}
